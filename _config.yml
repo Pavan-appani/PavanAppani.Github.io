@@ -1,0 +1,12 @@
+title: Akshay Appani
+logo: /assets/lin.jpeg
+description: I am a data professional with experience as an Data Analyst at Globex IT Solutions and a Data Engineer at BPCL and L&T. I founded my startup Consultency AM Consultations during my undergraduate studies, driving innovative Methods in Marketing Designing and Planning Construction Projects in Reral areas . Having completed my master's in Business Analytics and science at Trine University,Michigan. where I interned as a Data Base Engineer, I am now seeking roles in Big Data, Data Engineering, and Data Analysis. My journey combines technical expertise with business acumen, equipping me to implement advanced analytical strategies for efficient data management and reporting.
+show_downloads: true
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Additional personal details
+email: appaniakshayvag7@gmail.com
+github_username: Akshay107app
+linkedin: https://www.linkedin.com/in/akshay-appani/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsmQAuHYkQxyzQsSRCSMo%2BA%3D%3D
